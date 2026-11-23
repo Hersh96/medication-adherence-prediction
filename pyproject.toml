@@ -1,0 +1,8 @@
+[project]
+name = "adherence"
+version = "0.1.0"
+description = "Medication non-adherence prediction on synthetic pharmacy claims"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
